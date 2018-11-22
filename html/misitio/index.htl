@@ -1,0 +1,16 @@
+<h1>hola</h1>
+<html lang="es">
+    <head>
+	<title>recetas especiales</title>
+	<meta charset="utf-8">
+	<meta name="description" content="en este post...">
+</head>
+<body>
+   <hl>recetas especiales</hl>
+   <p>esta pagina aprenderas a cocinar y ver nuevas recetas de comida.</p>
+   <h2>¿que aprenderas en el tutorial?</h2>
+   <p>en este tutorial aprenderas a:</p>
+   <ol>
+	<li>en este tutorial aprenderas a cocinar.</li>
+	<li>ver las recetas innovadoras de 
+	            
